@@ -1,45 +1,17 @@
-{  
-   "items":[  
-      {  
-         "text":"Sample Menu Item - 1",
-         "items":[  
-            {  
-               "text":"Sample Menu Item - 1.1",
-               "items":[  
-                  {  
-                     "text":"Sample Menu Item - 1.1.1",
-                     "path":"SampleMenuItem_1_1_1.md"
-                  }
-               ]
-            },
-            {  
-               "text":"Sample Menu Item - 1.2",
-               "items":[  
-                  {  
-                     "text":"Sample Menu Item - 1.2.1",
-                     "path":"SampleMenuItem_1_2_1.md"
-                  },
-                  {  
-                     "text":"Sample Menu Item - 1.2.2",
-                     "path":"SampleMenuItem_1_2_2.md"
-                  }
-               ]
-            }
-         ]
-      },
-      {  
-         "text":"Sample Menu Item - 2",
-         "items":[  
-            {  
-               "text":"Sample Menu Item - 2.1",
-               "items":[  
-                  {  
-                     "text":"Sample Menu Item - 2.1.1",
-                     "path":"SampleMenuItem_2_1_1.md"
-                  }
-               ]
-            }
-         ]
-      }
-   ]
+{
+  "items": [
+    {
+      "text": "Getting Started",
+      "items": [
+        {
+          "text": "1: Administration informations",
+          "path": "Administration.md"
+        },
+        {
+          "text": "2: User informations",
+          "path": "User.md"
+        }
+      ]
+    }
+  ]
 }
