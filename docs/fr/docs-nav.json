@@ -1,14 +1,14 @@
 {
   "items": [
     {
-      "text": "Getting Started",
+      "text": "Commencer",
       "items": [
         {
-          "text": "1: Administration informations",
+          "text": "1: Informations administration",
           "path": "Administration.md"
         },
         {
-          "text": "2: User informations",
+          "text": "2: Informations utilisateur",
           "path": "User.md"
         }
       ]
