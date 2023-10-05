@@ -10,6 +10,10 @@
         {
           "text": "2: User informations",
           "path": "User.md"
+        },
+        {
+          "text": "3: Api informations",
+          "path": "Api.md"
         }
       ]
     }
