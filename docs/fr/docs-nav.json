@@ -1,6 +1,23 @@
 {
   "items": [
     {
+      "text": "Vue d'ensemble",
+      "items": [
+        {
+          "text": "Vue d'ensemble - Accueil",
+          "path": "Home.md"
+        },
+        {
+          "text": "Vue d'ensemble - Tableau de bord",
+          "path": "Dashboard.md"
+        },
+        {
+          "text": "Vue d'ensemble - Canaux de vente",
+          "path": "SalesChannels.md"
+        }
+      ]
+    },
+    {
       "text": "Commencer",
       "items": [
         {

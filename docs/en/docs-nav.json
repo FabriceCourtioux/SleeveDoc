@@ -1,6 +1,23 @@
 {
   "items": [
     {
+      "text": "Overview",
+      "items": [
+        {
+          "text": "Overview -Home",
+          "path": "Home.md"
+        },
+        { 
+          "text": "Overview - Dashboard",
+          "path": "Dashboard.md"
+        },
+        {
+          "text": "Overview - Sales channels",
+          "path": "SalesChannels.md"
+        }
+      ]
+    },
+    {
       "text": "Getting Started",
       "items": [
         {
