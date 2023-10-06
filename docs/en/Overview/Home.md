@@ -1,3 +1,7 @@
-## Home EN
+## Home
 
-<img width="500" height="56" src="../Images/Home.png/" alt="For testing" />
+The home page summarizes the different functionalities of the application using thumbnails. These can be found in the menu on the left.
+
+Thumbnails allowing access to available client applications are added at the end of the page.
+
+<img src="../Images/Home.png" alt="For testing" />
