@@ -4,16 +4,16 @@
       "text": "Overview",
       "items": [
         {
-          "text": "Overview -Home",
-          "path": "Home.md"
+          "text": "Home",
+          "path": "Overview/Home.md"
         },
         { 
-          "text": "Overview - Dashboard",
-          "path": "Dashboard.md"
+          "text": "Dashboard",
+          "path": "Overview/Dashboard.md"
         },
         {
-          "text": "Overview - Sales channels",
-          "path": "SalesChannels.md"
+          "text": "Sales channels",
+          "path": "Overview/SalesChannels.md"
         }
       ]
     },

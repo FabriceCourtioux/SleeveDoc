@@ -5,15 +5,15 @@
       "items": [
         {
           "text": "Accueil",
-          "path": "Home.md"
+          "path": "Overview/Home.md"
         },
         {
           "text": "Tableau de bord",
-          "path": "Dashboard.md"
+          "path": "Overview/Dashboard.md"
         },
         {
           "text": "Canaux de vente",
-          "path": "SalesChannels.md"
+          "path": "Overview/SalesChannels.md"
         }
       ]
     },
