@@ -1,5 +1,4 @@
 {
-  "text": "Index",
   "items": [
     {
       "text": "Overview",
@@ -22,15 +21,15 @@
       "text": "Getting Started",
       "items": [
         {
-          "text": "1: Administration informations",
+          "text": "Administration informations",
           "path": "Administration.md"
         },
         {
-          "text": "2: User informations",
+          "text": "User informations",
           "path": "User.md"
         },
         {
-          "text": "3: Api informations",
+          "text": "Api informations",
           "path": "Api.md"
         }
       ]
