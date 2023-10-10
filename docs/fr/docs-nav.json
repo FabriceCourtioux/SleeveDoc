@@ -14,6 +14,14 @@
         {
           "text": "Canaux de vente",
           "path": "Overview/SalesChannels.md"
+        },
+        {
+          "text": "Collections",
+          "path": "Overview/Collections.md"
+        },
+        {
+          "text": "Styles",
+          "path": "Overview/Styles.md"
         }
       ]
     },
