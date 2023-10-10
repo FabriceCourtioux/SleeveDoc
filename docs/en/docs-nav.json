@@ -18,19 +18,11 @@
       ]
     },
     {
-      "text": "Getting Started",
+      "text": "Developer information",
       "items": [
         {
-          "text": "Administration informations",
-          "path": "Administration.md"
-        },
-        {
-          "text": "User informations",
-          "path": "User.md"
-        },
-        {
-          "text": "Api informations",
-          "path": "Api.md"
+          "text": "Get started",
+          "path": "Developer/GetStarted.md"
         }
       ]
     }

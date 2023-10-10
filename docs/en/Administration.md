@@ -1,3 +1,0 @@
-## Administration EN
-
-TO DO

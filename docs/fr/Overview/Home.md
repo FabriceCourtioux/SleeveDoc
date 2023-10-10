@@ -4,4 +4,4 @@ La page d'accueil résume par vignettes les différentes fonctionnalités de l'a
 
 Sont ajoutées en fin de page les vignettes permettant d'accéder aux applications clientes disponibles.
 
-<img src="../Images/Home.png" alt="For testing" />
+<img src="../Images/Overview/Home.png" alt="Accueil" />

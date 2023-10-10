@@ -1,3 +1,5 @@
-## Canaux de vente FR
+## Canaux de vente
 
-EN COURS
+Ce menu permet de définir les points de vente de l'activité.
+
+<img src="../Images/Overview/SalesChannels.png" alt="Canaux de vente" />

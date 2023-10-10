@@ -18,19 +18,11 @@
       ]
     },
     {
-      "text": "Commencer",
+      "text": "Informations développeurs",
       "items": [
         {
-          "text": "Informations administration",
-          "path": "Administration.md"
-        },
-        {
-          "text": "Informations utilisateur",
-          "path": "User.md"
-        },
-        {
-          "text": "Informations api",
-          "path": "Api.md"
+          "text": "Démarrer",
+          "path": "Developer/GetStarted.md"
         }
       ]
     }

@@ -4,4 +4,4 @@ The home page summarizes the different functionalities of the application using 
 
 Thumbnails allowing access to available client applications are added at the end of the page.
 
-<img src="../Images/Home.png" alt="For testing" />
+<img src="../Images/Overview/Home.png" alt="Home" />
