@@ -2,4 +2,4 @@
 
 This menu allows you to define the points of sale for the activity.
 
-<img src="../Images/Overview/SalesChannels.png" alt="Sales channels" />
+<img src="../Images/Overview/SalesChannels.png" alt="Sales channels" class="shadow-sm" />
