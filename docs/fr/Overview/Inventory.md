@@ -1,6 +1,6 @@
 ## Inventaire
 
-Sont ajoutées en fin de page les vignettes permettant d'accéder aux applications clientes disponibles.
+L'inventaire inclut tous les éléments (matières) constituant la fabrication d'un produit : tissus, doublure, boutons, ... Y est ajouté le stock de produits finis en prêt à porter (styles).
 
 <img src="../Images/Overview/Inventory.png" alt="Inventaire" class="shadow-sm" />
 

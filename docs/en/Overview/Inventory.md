@@ -1,6 +1,6 @@
 ## Inventory
 
-Thumbnails allowing access to available client applications are added at the end of the page.
+The inventory includes all the elements (materials) constituting the manufacture of a product: fabrics, lining, buttons, etc. The stock of finished ready-to-wear products (styles) is added.
 
 <img src="../Images/Overview/Inventory.png" alt="Inventory" class="shadow-sm" />
 
