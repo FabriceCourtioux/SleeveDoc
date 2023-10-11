@@ -1,6 +1,6 @@
 ## Collections
 
-The collections detail all the characteristics of the products available on the platform, whether tailor-made or ready to wear.
+The collections detail all the characteristics of the products available on the platform, classified by type.
 
 <img src="../Images/Overview/Collections.png" alt="Collections" />
 
@@ -8,7 +8,7 @@ The collections detail all the characteristics of the products available on the 
 
 It is possible to define "main styles" grouping one or more types of products.
 
-In the example below, the main style 'White label' will be able to integrate all product types. It will be necessary to specify when entering the models, whether they belong to the chosen collection.
+In the example below, the main style 'White label' will be able to integrate all product types. When entering models, you will be able to define the corresponding main style.
 
 <img src="../Images/Overview/MainStyles.png" alt="Main styles" />
 

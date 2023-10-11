@@ -1,6 +1,6 @@
 ## Collections
 
-Les collections détaillent toutes les caractéristiques des produits disponibles sur la plateforme, que ce soit sur-mesure ou prêt à porter.
+Les collections détaillent toutes les caractéristiques des produits disponibles sur la plateforme, classés par type.
 
 <img src="../Images/Overview/Collections.png" alt="Collections" />
 
@@ -8,7 +8,7 @@ Les collections détaillent toutes les caractéristiques des produits disponible
 
 Il est possible de définir des "styles principaux" regroupant un ou plusieurs types de produits.
 
-Dans l'exemple ci-dessous, le style principal 'White label' pourra intégrer tous les types de produit. Il sera nécessaire de préciser lors de la saisie des modèles, l'appartenance à la collection choisie.
+Dans l'exemple ci-dessous, le style principal 'White label' pourra intégrer tous les types de produit. Lors de la saisie des modèles, vous pourrez définir le style principal correspondant.
 
 <img src="../Images/Overview/MainStyles.png" alt="Styles principaux" />
 

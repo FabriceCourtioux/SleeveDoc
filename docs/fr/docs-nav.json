@@ -22,6 +22,22 @@
         {
           "text": "Styles",
           "path": "Overview/Styles.md"
+        },
+        { 
+          "text": "Inventaire",
+          "path": "Overview/Inventory.md"
+        },
+        {
+          "text": "Clients",
+          "path": "Overview/Customers.md"
+        },
+        {
+          "text": "Commandes",
+          "path": "Overview/Orders.md"
+        },
+        {
+          "text": "Production",
+          "path": "Overview/Production.md"
         }
       ]
     },
