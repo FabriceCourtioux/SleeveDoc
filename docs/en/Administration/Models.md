@@ -6,12 +6,12 @@ The creation of models is done from the “Collections” menu then the choice o
 
 <table>
     <tbody>
-        <tr>
-            <td align="left" width="450">
+        <tr class="border-0">
+            <td align="left" width="450" class="border-0">
                 <img src="../Images/Administration/NewModel.png" alt="Nouveau modèle" class="shadow-sm" />
-            </td>
-            <td align="center"></td>
-            <td width="350">
+            </td >
+            <td class="border-0"></td>
+            <td width="350" class="border-0">
                 The 'visible' property allows you to hide an element during queries without deleting it. Example: A model is being integrated but should not be visible.<br/><br/>
                 Choose a main style, category and genre according to the preliminary definition.<br/><br/>
                 The 'product type' field is an additional field to refine the filters during searches. A value will be entered or not depending on the needs.<br/><br/>
@@ -23,8 +23,24 @@ The creation of models is done from the “Collections” menu then the choice o
     </tbody>
 </table>
 
-### Les options
+### Options
 
-### Les mesures
+Each model has the possibility to configure options. The option list is pre-defined because it is directly linked to the on-demand production system.
 
-### Les tissus
+A price, a display order during queries and a default value can be defined.
+
+<img src="../Images/Administration/Options.png" alt="Options" class="shadow-sm" />
+
+### Measures
+
+A table of measurements exists for each model. Measurements recorded vary depending on product type.
+
+<img src="../Images/Administration/Measures.png" alt="Measures" class="shadow-sm" />
+
+### Fabrics
+
+For each model, it is possible to link a list of fabrics in order to display a selection when ordering. This is useful when not all fabrics in a category are available for a particular model.
+
+A price, a display order during queries and a default value can be defined.
+
+<img src="../Images/Administration/FabricsModels.png" alt="Fabrics" class="shadow-sm" />
