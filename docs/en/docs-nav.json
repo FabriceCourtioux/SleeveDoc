@@ -42,11 +42,28 @@
       ]
     },
     {
+      "text": "Administration",
+      "items": [
+        {
+          "text": "Sales channels",
+          "path": "Administration/SalesChannels.md"
+        },
+        {
+          "text": "Users",
+          "path": "Administration/Users.md"
+        }
+      ]
+    },
+    {
       "text": "Developer information",
       "items": [
         {
           "text": "Get started",
           "path": "Developer/GetStarted.md"
+        },
+        {
+          "text": "Collections",
+          "path": "Developer/Collections.md"
         }
       ]
     }
