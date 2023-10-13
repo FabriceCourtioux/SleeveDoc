@@ -12,10 +12,6 @@
           "path": "Overview/Dashboard.md"
         },
         {
-          "text": "Canaux de vente",
-          "path": "Overview/SalesChannels.md"
-        },
-        {
           "text": "Collections",
           "path": "Overview/Collections.md"
         },
@@ -51,6 +47,10 @@
         {
           "text": "Utilisateurs",
           "path": "Administration/Users.md"
+        },
+        {
+          "text": "Models",
+          "path": "Administration/Models.md"
         }
       ]
     },

@@ -7,7 +7,7 @@ To connect to APIs, you must use an account with the "store" role that has the n
 An access token is required for each request. It will have to be added in the header. To obtain it, you must make a request to the address : `https://sleevessaas.azurewebsites.net/connect/token`.
 
 This access token can be reused for the entire lifespan of the current session. There is no need to request a new one for each request.
-
+<br/><br />
 > Note that for security reasons, it is not recommended to store it in the localStorage without being encrypted. Other backup methods may be used as appropriate.
 
 Here is an example of a JavaScript request (you must replace the tenantId with the one provided).
