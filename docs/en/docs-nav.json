@@ -51,6 +51,14 @@
         {
           "text": "Models",
           "path": "Administration/Models.md"
+        },
+        {
+          "text": "Styles",
+          "path": "Administration/Styles.md"
+        },
+        {
+          "text": "Materials",
+          "path": "Administration/Materials.md"
         }
       ]
     },

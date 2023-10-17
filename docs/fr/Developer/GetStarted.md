@@ -7,7 +7,7 @@ Pour la connexion aux API, il faut utiliser un compte avec le rôle « store » 
 Un jeton d'accès est nécessaire à chaque requête. Il faudra l’ajouter dans le header. Pour l’obtenir, il faut faire une requête à l’adresse : `https://sleevessaas.azurewebsites.net/connect/token`.
 
 Ce jeton d'accès pourra être réutilisé pour toute la durée de vie de la session en cours. Il est inutile d'en redemander un nouveau à chaque requête.
-<br />
+<br/><br />
 > A noter que pour des raisons de sécurité, il est déconseillé de le stocker  dans le localStorage sans être crypté. D'autres méthodes de sauvegarde peuvent être utilisées selon le cas.
 
 Voici un exemple de requête en JavaScript (il faut remplacer le tenantId par celui fourni).
